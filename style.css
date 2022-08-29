@@ -1,0 +1,13 @@
+.wrapper {
+  min-height: 100vh;
+}
+
+.frame {
+  min-height: 100vh;
+  background: lightblue;
+}
+
+.frame .card-col {
+  background: pink;
+}
+/*# sourceMappingURL=style.css.map */
